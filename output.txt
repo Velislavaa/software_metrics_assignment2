@@ -1,0 +1,5379 @@
+{
+  "connectEnd": 124.51500003226101,
+  "connectStart": 8.215000154450536,
+  "decodedBodySize": 59193,
+  "domComplete": 823.670000070706,
+  "domContentLoadedEventEnd": 340.6900002155453,
+  "domContentLoadedEventStart": 340.68000013940036,
+  "domInteractive": 340.6500001437962,
+  "domainLookupEnd": 8.215000154450536,
+  "domainLookupStart": 8.195000002160668,
+  "duration": 823.7150001805276,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 2.025000052526593,
+  "initiatorType": "navigation",
+  "loadEventEnd": 823.7150001805276,
+  "loadEventStart": 823.7050001043826,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 126.44500005990267,
+  "responseEnd": 257.28000001981854,
+  "responseStart": 203.02000013180077,
+  "secureConnectionStart": 57.79500002972782,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 265.2650000527501,
+  "connectStart": 265.2650000527501,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 265.2650000527501,
+  "domainLookupStart": 265.2650000527501,
+  "duration": 64.85500000417233,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 265.2650000527501,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 268.8400000333786,
+  "responseEnd": 330.12000005692244,
+  "responseStart": 320.76000003144145,
+  "secureConnectionStart": 265.2650000527501,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 265.2650000527501,
+  "transferSize": 9401,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 266.0800002049655,
+  "connectStart": 266.0800002049655,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 266.0800002049655,
+  "domainLookupStart": 266.0800002049655,
+  "duration": 115.55499979294837,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 266.0800002049655,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 270.39499999955297,
+  "responseEnd": 381.63499999791384,
+  "responseStart": 325.6200000178069,
+  "secureConnectionStart": 266.0800002049655,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 266.0800002049655,
+  "transferSize": 22198,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 268.2950000744313,
+  "connectStart": 268.2950000744313,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 268.2950000744313,
+  "domainLookupStart": 268.2950000744313,
+  "duration": 62.91500013321638,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 268.2950000744313,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 271.31000021472573,
+  "responseEnd": 331.2100002076477,
+  "responseStart": 326.02000003680587,
+  "secureConnectionStart": 268.2950000744313,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 268.2950000744313,
+  "transferSize": 4954,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 269.3250000011176,
+  "connectStart": 269.3250000011176,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 269.3250000011176,
+  "domainLookupStart": 269.3250000011176,
+  "duration": 118.68000007234514,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 269.3250000011176,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 273.1100001838058,
+  "responseEnd": 388.0050000734627,
+  "responseStart": 380.3150001913309,
+  "secureConnectionStart": 269.3250000011176,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 269.3250000011176,
+  "transferSize": 2621,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 271.2000000756234,
+  "connectStart": 271.2000000756234,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 271.2000000756234,
+  "domainLookupStart": 271.2000000756234,
+  "duration": 117.28499992750585,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 271.2000000756234,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 276.17000020109117,
+  "responseEnd": 388.48500000312924,
+  "responseStart": 380.75500004924834,
+  "secureConnectionStart": 271.2000000756234,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 271.2000000756234,
+  "transferSize": 1742,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 328.42000015079975,
+  "connectStart": 328.42000015079975,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 328.42000015079975,
+  "domainLookupStart": 328.42000015079975,
+  "duration": 62.4849998857826,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 328.42000015079975,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 333.0800000112504,
+  "responseEnd": 390.90500003658235,
+  "responseStart": 383.7650001514703,
+  "secureConnectionStart": 328.42000015079975,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 328.42000015079975,
+  "transferSize": 20764,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 344.455000013113,
+  "connectStart": 344.455000013113,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 344.455000013113,
+  "domainLookupStart": 344.455000013113,
+  "duration": 52.92000016197562,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 344.455000013113,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 345.790000166744,
+  "responseEnd": 397.37500017508864,
+  "responseStart": 394.20500001870096,
+  "secureConnectionStart": 344.455000013113,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 344.455000013113,
+  "transferSize": 2129,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 345.73500021360815,
+  "connectStart": 345.73500021360815,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 345.73500021360815,
+  "domainLookupStart": 345.73500021360815,
+  "duration": 54.19499985873699,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 345.73500021360815,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 347.18500007875264,
+  "responseEnd": 399.93000007234514,
+  "responseStart": 396.4000002015382,
+  "secureConnectionStart": 345.73500021360815,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 345.73500021360815,
+  "transferSize": 318,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 401.7700001131743,
+  "connectStart": 401.7700001131743,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 401.7700001131743,
+  "domainLookupStart": 401.7700001131743,
+  "duration": 83.80999998189509,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 401.7700001131743,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 403.6199999973178,
+  "responseEnd": 485.5800000950694,
+  "responseStart": 483.9350001420826,
+  "secureConnectionStart": 401.7700001131743,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 401.7700001131743,
+  "transferSize": 389,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 542.1200001146644,
+  "connectStart": 434.22000017017126,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 434.22000017017126,
+  "domainLookupStart": 406.1000000219792,
+  "duration": 191.00000010803342,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 403.38000003248453,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 543.8200000207871,
+  "responseEnd": 594.380000140518,
+  "responseStart": 592.8000002168119,
+  "secureConnectionStart": 484.2150001786649,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 403.38000003248453,
+  "transferSize": 385,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 404.5400000177324,
+  "connectStart": 404.5400000177324,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 404.5400000177324,
+  "domainLookupStart": 404.5400000177324,
+  "duration": 189.59000008180737,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 404.5400000177324,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 543.8700001686811,
+  "responseEnd": 594.1300000995398,
+  "responseStart": 592.4500001128763,
+  "secureConnectionStart": 404.5400000177324,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 404.5400000177324,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 407.53500000573695,
+  "connectStart": 407.53500000573695,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 407.53500000573695,
+  "domainLookupStart": 407.53500000573695,
+  "duration": 51.115000154823065,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 407.53500000573695,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 409.0250001754612,
+  "responseEnd": 458.65000016056,
+  "responseStart": 457.70500018261373,
+  "secureConnectionStart": 407.53500000573695,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 407.53500000573695,
+  "transferSize": 326,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 410.5899999849498,
+  "connectStart": 410.5899999849498,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 410.5899999849498,
+  "domainLookupStart": 410.5899999849498,
+  "duration": 50.49500009045005,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 410.5899999849498,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 411.43500013276935,
+  "responseEnd": 461.0850000753999,
+  "responseStart": 460.25500004179776,
+  "secureConnectionStart": 410.5899999849498,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 410.5899999849498,
+  "transferSize": 312,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 629.6350001357496,
+  "toJSON": {}
+}{
+  "connectEnd": 651.3250002171844,
+  "connectStart": 651.3250002171844,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 651.3250002171844,
+  "domainLookupStart": 651.3250002171844,
+  "duration": 57.96499992720783,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 651.3250002171844,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 652.1550000179559,
+  "responseEnd": 709.2900001443923,
+  "responseStart": 707.0850001182407,
+  "secureConnectionStart": 651.3250002171844,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 651.3250002171844,
+  "transferSize": 7237,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 652.1200002171099,
+  "connectStart": 652.1200002171099,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 652.1200002171099,
+  "domainLookupStart": 652.1200002171099,
+  "duration": 56.79999990388751,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 652.1200002171099,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 652.8800001833588,
+  "responseEnd": 708.9200001209974,
+  "responseStart": 706.8800001870841,
+  "secureConnectionStart": 652.1200002171099,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 652.1200002171099,
+  "transferSize": 15166,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 653.1900002155453,
+  "connectStart": 653.1900002155453,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 653.1900002155453,
+  "domainLookupStart": 653.1900002155453,
+  "duration": 155.65499989315867,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 653.1900002155453,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 654.1150000412017,
+  "responseEnd": 808.845000108704,
+  "responseStart": 708.2800001371652,
+  "secureConnectionStart": 653.1900002155453,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 653.1900002155453,
+  "transferSize": 140279,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 782.7200000174344,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 782.7200000174344,
+  "toJSON": {}
+}{
+  "connectEnd": 108.75999997369945,
+  "connectStart": 4.345000023022294,
+  "decodedBodySize": 59193,
+  "domComplete": 706.705000018701,
+  "domContentLoadedEventEnd": 295.7200000528246,
+  "domContentLoadedEventStart": 295.71500001475215,
+  "domInteractive": 295.66500009968877,
+  "domainLookupEnd": 4.345000023022294,
+  "domainLookupStart": 4.304999951273203,
+  "duration": 706.8499999586493,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 1.3650001492351294,
+  "initiatorType": "navigation",
+  "loadEventEnd": 706.8499999586493,
+  "loadEventStart": 706.840000115335,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 109.88500015810132,
+  "responseEnd": 229.95000006631017,
+  "responseStart": 167.7950001321733,
+  "secureConnectionStart": 54.84000011347234,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 213.85499997995794,
+  "connectStart": 213.85499997995794,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 213.85499997995794,
+  "domainLookupStart": 213.85499997995794,
+  "duration": 70.38000016473234,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 213.85499997995794,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 229.4000000692904,
+  "responseEnd": 284.2350001446903,
+  "responseStart": 278.0999999959022,
+  "secureConnectionStart": 213.85499997995794,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 213.85499997995794,
+  "transferSize": 9401,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 214.28499999456108,
+  "connectStart": 214.28499999456108,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 214.28499999456108,
+  "domainLookupStart": 214.28499999456108,
+  "duration": 104.53500016592443,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 214.28499999456108,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 230.37000000476837,
+  "responseEnd": 318.8200001604855,
+  "responseStart": 292.7149999886751,
+  "secureConnectionStart": 214.28499999456108,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 214.28499999456108,
+  "transferSize": 22197,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 214.55999999307096,
+  "connectStart": 214.55999999307096,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 214.55999999307096,
+  "domainLookupStart": 214.55999999307096,
+  "duration": 78.50500009953976,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 214.55999999307096,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 230.52500002086163,
+  "responseEnd": 293.0650000926107,
+  "responseStart": 287.08999999798834,
+  "secureConnectionStart": 214.55999999307096,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 214.55999999307096,
+  "transferSize": 4953,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 232.0950001012534,
+  "connectStart": 232.0950001012534,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 232.0950001012534,
+  "domainLookupStart": 232.0950001012534,
+  "duration": 89.74500000476837,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 232.0950001012534,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 232.92999994009733,
+  "responseEnd": 321.84000010602176,
+  "responseStart": 317.9150000214577,
+  "secureConnectionStart": 232.0950001012534,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 232.0950001012534,
+  "transferSize": 2621,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 232.3900000192225,
+  "connectStart": 232.3900000192225,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 232.3900000192225,
+  "domainLookupStart": 232.3900000192225,
+  "duration": 90.970000019297,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 232.3900000192225,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 233.26500016264617,
+  "responseEnd": 323.3600000385195,
+  "responseStart": 321.40500005334616,
+  "secureConnectionStart": 232.3900000192225,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 232.3900000192225,
+  "transferSize": 1742,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 279.4500000309199,
+  "connectStart": 279.4500000309199,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 279.4500000309199,
+  "domainLookupStart": 279.4500000309199,
+  "duration": 81.16999990306795,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 279.4500000309199,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 280.1250000484288,
+  "responseEnd": 360.61999993398786,
+  "responseStart": 335.8050000388175,
+  "secureConnectionStart": 279.4500000309199,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 279.4500000309199,
+  "transferSize": 20764,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 297.275000018999,
+  "connectStart": 297.275000018999,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 297.275000018999,
+  "domainLookupStart": 297.275000018999,
+  "duration": 66.37000013142824,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 297.275000018999,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 297.90500015951693,
+  "responseEnd": 363.6450001504272,
+  "responseStart": 359.94500014930964,
+  "secureConnectionStart": 297.275000018999,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 297.275000018999,
+  "transferSize": 2129,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 297.8199999779463,
+  "connectStart": 297.8199999779463,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 297.8199999779463,
+  "domainLookupStart": 297.8199999779463,
+  "duration": 66.02500006556511,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 297.8199999779463,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 298.48500015214086,
+  "responseEnd": 363.8450000435114,
+  "responseStart": 360.0699999369681,
+  "secureConnectionStart": 297.8199999779463,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 297.8199999779463,
+  "transferSize": 318,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 316.58000010065734,
+  "connectStart": 316.58000010065734,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 316.58000010065734,
+  "domainLookupStart": 316.58000010065734,
+  "duration": 49.709999933838844,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 316.58000010065734,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 317.33500002883375,
+  "responseEnd": 366.2900000344962,
+  "responseStart": 365.41500012390316,
+  "secureConnectionStart": 316.58000010065734,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 316.58000010065734,
+  "transferSize": 396,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 403.1400000676513,
+  "connectStart": 320.2349999919534,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 320.2349999919534,
+  "domainLookupStart": 319.58999997004867,
+  "duration": 131.15499983541667,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 317.41000013425946,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 403.45999994315207,
+  "responseEnd": 448.56499996967614,
+  "responseStart": 447.22500001080334,
+  "secureConnectionStart": 360.2700000628829,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 317.41000013425946,
+  "transferSize": 385,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 318.0949999950826,
+  "connectStart": 318.0949999950826,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 318.0949999950826,
+  "domainLookupStart": 318.0949999950826,
+  "duration": 130.2400000859052,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 318.0949999950826,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 403.5050000529736,
+  "responseEnd": 448.3350000809878,
+  "responseStart": 447.03499996103346,
+  "secureConnectionStart": 318.0949999950826,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 318.0949999950826,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 319.80499997735023,
+  "connectStart": 319.80499997735023,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 319.80499997735023,
+  "domainLookupStart": 319.80499997735023,
+  "duration": 51.69000010937452,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 319.80499997735023,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 321.23999996110797,
+  "responseEnd": 371.49500008672476,
+  "responseStart": 370.0000001117587,
+  "secureConnectionStart": 319.80499997735023,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 319.80499997735023,
+  "transferSize": 326,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 321.6099999845028,
+  "connectStart": 321.6099999845028,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 321.6099999845028,
+  "domainLookupStart": 321.6099999845028,
+  "duration": 50.0900000333786,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 321.6099999845028,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 322.395000141114,
+  "responseEnd": 371.7000000178814,
+  "responseStart": 370.2000000048429,
+  "secureConnectionStart": 321.6099999845028,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 321.6099999845028,
+  "transferSize": 305,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 532.8750000335276,
+  "toJSON": {}
+}{
+  "connectEnd": 552.5299999862909,
+  "connectStart": 552.5299999862909,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 552.5299999862909,
+  "domainLookupStart": 552.5299999862909,
+  "duration": 51.620000042021275,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 552.5299999862909,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 553.8900000974536,
+  "responseEnd": 604.1500000283122,
+  "responseStart": 601.60499997437,
+  "secureConnectionStart": 552.5299999862909,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 552.5299999862909,
+  "transferSize": 7267,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 553.7950000725687,
+  "connectStart": 553.7950000725687,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 553.7950000725687,
+  "domainLookupStart": 553.7950000725687,
+  "duration": 62.2749999165535,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 553.7950000725687,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 555.1849999465048,
+  "responseEnd": 616.0699999891222,
+  "responseStart": 609.3049999326468,
+  "secureConnectionStart": 553.7950000725687,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 553.7950000725687,
+  "transferSize": 15135,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 555.3800000343472,
+  "connectStart": 555.3800000343472,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 555.3800000343472,
+  "domainLookupStart": 555.3800000343472,
+  "duration": 141.11500000581145,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 555.3800000343472,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 556.3600000459701,
+  "responseEnd": 696.4950000401586,
+  "responseStart": 615.555000025779,
+  "secureConnectionStart": 555.3800000343472,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 555.3800000343472,
+  "transferSize": 140279,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 644.5049999747425,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 644.5049999747425,
+  "toJSON": {}
+}{
+  "connectEnd": 89.97500012628734,
+  "connectStart": 3.490000031888485,
+  "decodedBodySize": 59193,
+  "domComplete": 762.4300001189113,
+  "domContentLoadedEventEnd": 232.09000006318092,
+  "domContentLoadedEventStart": 232.08500002510846,
+  "domInteractive": 232.0300000719726,
+  "domainLookupEnd": 3.490000031888485,
+  "domainLookupStart": 3.470000112429261,
+  "duration": 762.4800000339746,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 0.7800001185387373,
+  "initiatorType": "navigation",
+  "loadEventEnd": 762.4800000339746,
+  "loadEventStart": 762.4700001906604,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 91.990000102669,
+  "responseEnd": 175.4150001797825,
+  "responseStart": 132.9700001515448,
+  "secureConnectionStart": 44.390000170096755,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 169.45000016130507,
+  "connectStart": 169.45000016130507,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 169.45000016130507,
+  "domainLookupStart": 169.45000016130507,
+  "duration": 48.91999997198582,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 169.45000016130507,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 175.6900001782924,
+  "responseEnd": 218.3700001332909,
+  "responseStart": 216.77500009536743,
+  "secureConnectionStart": 169.45000016130507,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 169.45000016130507,
+  "transferSize": 9401,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 169.85500021837652,
+  "connectStart": 169.85500021837652,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 169.85500021837652,
+  "domainLookupStart": 169.85500021837652,
+  "duration": 107.68999997526407,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 169.85500021837652,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 176.18000018410385,
+  "responseEnd": 277.5450001936406,
+  "responseStart": 227.34500002115965,
+  "secureConnectionStart": 169.85500021837652,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 169.85500021837652,
+  "transferSize": 22198,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 170.23500008508563,
+  "connectStart": 170.23500008508563,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 170.23500008508563,
+  "domainLookupStart": 170.23500008508563,
+  "duration": 58.47500008530915,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 170.23500008508563,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 176.27000017091632,
+  "responseEnd": 228.71000017039478,
+  "responseStart": 227.16000000946224,
+  "secureConnectionStart": 170.23500008508563,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 170.23500008508563,
+  "transferSize": 4953,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 177.9100000858307,
+  "connectStart": 177.9100000858307,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 177.9100000858307,
+  "domainLookupStart": 177.9100000858307,
+  "duration": 103.89499994926155,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 177.9100000858307,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 178.75500000081956,
+  "responseEnd": 281.80500003509223,
+  "responseStart": 276.53000014834106,
+  "secureConnectionStart": 177.9100000858307,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 177.9100000858307,
+  "transferSize": 2600,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 178.21500007994473,
+  "connectStart": 178.21500007994473,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 178.21500007994473,
+  "domainLookupStart": 178.21500007994473,
+  "duration": 103.36500010453165,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 178.21500007994473,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 179.05500018969178,
+  "responseEnd": 281.5800001844764,
+  "responseStart": 276.29500022158027,
+  "secureConnectionStart": 178.21500007994473,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 178.21500007994473,
+  "transferSize": 1763,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 218.3200002182275,
+  "connectStart": 218.3200002182275,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 218.3200002182275,
+  "domainLookupStart": 218.3200002182275,
+  "duration": 63.65999998524785,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 218.3200002182275,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 219.61000002920628,
+  "responseEnd": 281.98000020347536,
+  "responseStart": 276.70000004582107,
+  "secureConnectionStart": 218.3200002182275,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 218.3200002182275,
+  "transferSize": 20764,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 234.5400000922382,
+  "connectStart": 234.5400000922382,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 234.5400000922382,
+  "domainLookupStart": 234.5400000922382,
+  "duration": 88.74500007368624,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 234.5400000922382,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 235.25000014342368,
+  "responseEnd": 323.28500016592443,
+  "responseStart": 314.84000012278557,
+  "secureConnectionStart": 234.5400000922382,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 234.5400000922382,
+  "transferSize": 2121,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 235.19999999552965,
+  "connectStart": 235.19999999552965,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 235.19999999552965,
+  "domainLookupStart": 235.19999999552965,
+  "duration": 47.00500005856156,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 235.19999999552965,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 235.9400000423193,
+  "responseEnd": 282.2050000540912,
+  "responseStart": 276.9000001717359,
+  "secureConnectionStart": 235.19999999552965,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 235.19999999552965,
+  "transferSize": 325,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 253.5650001373142,
+  "connectStart": 253.5650001373142,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 253.5650001373142,
+  "domainLookupStart": 253.5650001373142,
+  "duration": 73.62499996088445,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 253.5650001373142,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 254.26500011235476,
+  "responseEnd": 327.19000009819865,
+  "responseStart": 325.8050000295043,
+  "secureConnectionStart": 253.5650001373142,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 253.5650001373142,
+  "transferSize": 389,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 371.18500005453825,
+  "connectStart": 255.56000019423664,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 255.56000019423664,
+  "domainLookupStart": 255.03500015474856,
+  "duration": 164.36000005342066,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 254.4450000859797,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 372.8800001554191,
+  "responseEnd": 418.80500013940036,
+  "responseStart": 416.47000005468726,
+  "secureConnectionStart": 321.06000022031367,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 254.4450000859797,
+  "transferSize": 385,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 254.8800001386553,
+  "connectStart": 254.8800001386553,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 254.8800001386553,
+  "domainLookupStart": 254.8800001386553,
+  "duration": 163.40499999932945,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 254.8800001386553,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 372.92500003241,
+  "responseEnd": 418.28500013798475,
+  "responseStart": 416.2450002040714,
+  "secureConnectionStart": 254.8800001386553,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 254.8800001386553,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 256.35500019416213,
+  "connectStart": 256.35500019416213,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 256.35500019416213,
+  "domainLookupStart": 256.35500019416213,
+  "duration": 67.49499985016882,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 256.35500019416213,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 257.07000005058944,
+  "responseEnd": 323.85000004433095,
+  "responseStart": 320.8800000138581,
+  "secureConnectionStart": 256.35500019416213,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 256.35500019416213,
+  "transferSize": 326,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 257.99000007100403,
+  "connectStart": 257.99000007100403,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 257.99000007100403,
+  "domainLookupStart": 257.99000007100403,
+  "duration": 68.97499994374812,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 257.99000007100403,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 258.73500015586615,
+  "responseEnd": 326.96500001475215,
+  "responseStart": 321.01000007241964,
+  "secureConnectionStart": 257.99000007100403,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 257.99000007100403,
+  "transferSize": 312,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 571.1500002071261,
+  "toJSON": {}
+}{
+  "connectEnd": 603.730000089854,
+  "connectStart": 603.730000089854,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 603.730000089854,
+  "domainLookupStart": 603.730000089854,
+  "duration": 48.36000013165176,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 603.730000089854,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 605.9950001072139,
+  "responseEnd": 652.0900002215058,
+  "responseStart": 650.5800001323223,
+  "secureConnectionStart": 603.730000089854,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 603.730000089854,
+  "transferSize": 7236,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 604.7900000121444,
+  "connectStart": 604.7900000121444,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 604.7900000121444,
+  "domainLookupStart": 604.7900000121444,
+  "duration": 55.73500017635524,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 604.7900000121444,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 606.9750001188368,
+  "responseEnd": 660.5250001884997,
+  "responseStart": 648.7350000534207,
+  "secureConnectionStart": 604.7900000121444,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 604.7900000121444,
+  "transferSize": 15166,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 605.8650000486523,
+  "connectStart": 605.8650000486523,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 605.8650000486523,
+  "domainLookupStart": 605.8650000486523,
+  "duration": 142.34500005841255,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 605.8650000486523,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 607.3700000997633,
+  "responseEnd": 748.2100001070648,
+  "responseStart": 655.2950001787394,
+  "secureConnectionStart": 605.8650000486523,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 605.8650000486523,
+  "transferSize": 140279,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 779.7250000294298,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 779.7250000294298,
+  "toJSON": {}
+}{
+  "connectEnd": 123.08999989181757,
+  "connectStart": 4.7599999234080315,
+  "decodedBodySize": 59193,
+  "domComplete": 756.6599999554455,
+  "domContentLoadedEventEnd": 321.0499999113381,
+  "domContentLoadedEventStart": 320.9999999962747,
+  "domInteractive": 320.6050000153482,
+  "domainLookupEnd": 4.7599999234080315,
+  "domainLookupStart": 4.734999965876341,
+  "duration": 756.7600000184029,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 1.0400000028312206,
+  "initiatorType": "navigation",
+  "loadEventEnd": 756.7600000184029,
+  "loadEventStart": 756.7099998705089,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 127.02999985776842,
+  "responseEnd": 226.4199999626726,
+  "responseStart": 175.13999994844198,
+  "secureConnectionStart": 63.439999939873815,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 204.96000000275671,
+  "connectStart": 204.96000000275671,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 204.96000000275671,
+  "domainLookupStart": 204.96000000275671,
+  "duration": 100.6249999627471,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 204.96000000275671,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 210.90999990701675,
+  "responseEnd": 305.5849999655038,
+  "responseStart": 290.19999993033707,
+  "secureConnectionStart": 204.96000000275671,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 204.96000000275671,
+  "transferSize": 9392,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 205.3600000217557,
+  "connectStart": 205.3600000217557,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 205.3600000217557,
+  "domainLookupStart": 205.3600000217557,
+  "duration": 124.79999987408519,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 205.3600000217557,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 211.47500001825392,
+  "responseEnd": 330.1599998958409,
+  "responseStart": 293.00499986857176,
+  "secureConnectionStart": 205.3600000217557,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 205.3600000217557,
+  "transferSize": 22198,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 205.66999982111156,
+  "connectStart": 205.66999982111156,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 205.66999982111156,
+  "domainLookupStart": 205.66999982111156,
+  "duration": 99.02500011958182,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 205.66999982111156,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 211.82499988935888,
+  "responseEnd": 304.6949999406934,
+  "responseStart": 297.5049999076873,
+  "secureConnectionStart": 205.66999982111156,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 205.66999982111156,
+  "transferSize": 4953,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 227.97499992884696,
+  "connectStart": 227.97499992884696,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 227.97499992884696,
+  "domainLookupStart": 227.97499992884696,
+  "duration": 53.25499991886318,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 227.97499992884696,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 228.67999994195998,
+  "responseEnd": 281.22999984771013,
+  "responseStart": 277.52000000327826,
+  "secureConnectionStart": 227.97499992884696,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 227.97499992884696,
+  "transferSize": 2623,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 228.21999993175268,
+  "connectStart": 228.21999993175268,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 228.21999993175268,
+  "domainLookupStart": 228.21999993175268,
+  "duration": 53.709999890998006,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 228.21999993175268,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 228.94499986432493,
+  "responseEnd": 281.9299998227507,
+  "responseStart": 277.9949998948723,
+  "secureConnectionStart": 228.21999993175268,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 228.21999993175268,
+  "transferSize": 1750,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 293.10499993152916,
+  "connectStart": 293.10499993152916,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 293.10499993152916,
+  "domainLookupStart": 293.10499993152916,
+  "duration": 68.91999999061227,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 293.10499993152916,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 295.3849998302758,
+  "responseEnd": 362.02499992214143,
+  "responseStart": 346.7249998357147,
+  "secureConnectionStart": 293.10499993152916,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 293.10499993152916,
+  "transferSize": 20764,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 328.8950000423938,
+  "connectStart": 328.8950000423938,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 328.8950000423938,
+  "domainLookupStart": 328.8950000423938,
+  "duration": 52.96499980613589,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 328.8950000423938,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 330.6149998679757,
+  "responseEnd": 381.8599998485297,
+  "responseStart": 380.83999999798834,
+  "secureConnectionStart": 328.8950000423938,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 328.8950000423938,
+  "transferSize": 2129,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 330.11500001884997,
+  "connectStart": 330.11500001884997,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 330.11500001884997,
+  "domainLookupStart": 330.11500001884997,
+  "duration": 58.259999845176935,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 330.11500001884997,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 332.4799998663366,
+  "responseEnd": 388.3749998640269,
+  "responseStart": 384.99499997124076,
+  "secureConnectionStart": 330.11500001884997,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 330.11500001884997,
+  "transferSize": 318,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 360.5049999896437,
+  "connectStart": 360.5049999896437,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 360.5049999896437,
+  "domainLookupStart": 360.5049999896437,
+  "duration": 49.92999997921288,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 360.5049999896437,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 361.2249998841435,
+  "responseEnd": 410.4349999688566,
+  "responseStart": 409.4099998474121,
+  "secureConnectionStart": 360.5049999896437,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 360.5049999896437,
+  "transferSize": 396,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 447.4400000181049,
+  "connectStart": 363.7149999849498,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 363.7149999849498,
+  "domainLookupStart": 363.69499983265996,
+  "duration": 135.56000008247793,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 361.3099998328835,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 449.3149998597801,
+  "responseEnd": 496.8699999153614,
+  "responseStart": 492.0649998821318,
+  "secureConnectionStart": 402.1999998949468,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 361.3099998328835,
+  "transferSize": 385,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 361.9799998123199,
+  "connectStart": 361.9799998123199,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 361.9799998123199,
+  "domainLookupStart": 361.9799998123199,
+  "duration": 129.89500002004206,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 361.9799998123199,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 449.3749998509884,
+  "responseEnd": 491.87499983236194,
+  "responseStart": 490.9249998163432,
+  "secureConnectionStart": 361.9799998123199,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 361.9799998123199,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 363.5700000450015,
+  "connectStart": 363.5700000450015,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 363.5700000450015,
+  "domainLookupStart": 363.5700000450015,
+  "duration": 50.494999857619405,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 363.5700000450015,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 364.5150000229478,
+  "responseEnd": 414.0649999026209,
+  "responseStart": 412.48499997891486,
+  "secureConnectionStart": 363.5700000450015,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 363.5700000450015,
+  "transferSize": 326,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 365.1299998164177,
+  "connectStart": 365.1299998164177,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 365.1299998164177,
+  "domainLookupStart": 365.1299998164177,
+  "duration": 50.260000163689256,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 365.1299998164177,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 365.724999923259,
+  "responseEnd": 415.38999998010695,
+  "responseStart": 413.5799999348819,
+  "secureConnectionStart": 365.1299998164177,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 365.1299998164177,
+  "transferSize": 304,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 577.3599999956787,
+  "toJSON": {}
+}{
+  "connectEnd": 599.7249998617917,
+  "connectStart": 599.7249998617917,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 599.7249998617917,
+  "domainLookupStart": 599.7249998617917,
+  "duration": 54.50000008568168,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 599.7249998617917,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 600.9349999949336,
+  "responseEnd": 654.2249999474734,
+  "responseStart": 652.2049999330193,
+  "secureConnectionStart": 599.7249998617917,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 599.7249998617917,
+  "transferSize": 7266,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 600.6050000432879,
+  "connectStart": 600.6050000432879,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 600.6050000432879,
+  "domainLookupStart": 600.6050000432879,
+  "duration": 63.87999979779124,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 600.6050000432879,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 601.8199999816716,
+  "responseEnd": 664.4849998410791,
+  "responseStart": 652.4000000208616,
+  "secureConnectionStart": 600.6050000432879,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 600.6050000432879,
+  "transferSize": 15134,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 601.9299998879433,
+  "connectStart": 601.9299998879433,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 601.9299998879433,
+  "domainLookupStart": 601.9299998879433,
+  "duration": 137.2849999461323,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 601.9299998879433,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 602.8299999888986,
+  "responseEnd": 739.2149998340756,
+  "responseStart": 663.9149999246001,
+  "secureConnectionStart": 601.9299998879433,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 601.9299998879433,
+  "transferSize": 140277,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 735.1049999706447,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 735.1049999706447,
+  "toJSON": {}
+}{
+  "connectEnd": 95.69499990902841,
+  "connectStart": 2.589999930933118,
+  "decodedBodySize": 59193,
+  "domComplete": 673.3750000130385,
+  "domContentLoadedEventEnd": 238.16499998793006,
+  "domContentLoadedEventStart": 238.15499991178513,
+  "domInteractive": 238.1199998781085,
+  "domainLookupEnd": 2.589999930933118,
+  "domainLookupStart": 2.570000011473894,
+  "duration": 673.4699998050928,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 0.7599999662488699,
+  "initiatorType": "navigation",
+  "loadEventEnd": 673.4699998050928,
+  "loadEventStart": 673.4299999661744,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 95.87499988265336,
+  "responseEnd": 183.2399999257177,
+  "responseStart": 137.929999968037,
+  "secureConnectionStart": 49.62499998509884,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 174.66000001877546,
+  "connectStart": 174.66000001877546,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 174.66000001877546,
+  "domainLookupStart": 174.66000001877546,
+  "duration": 50.44999998062849,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 174.66000001877546,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 177.7699999511242,
+  "responseEnd": 225.10999999940395,
+  "responseStart": 220.4699998255819,
+  "secureConnectionStart": 174.66000001877546,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 174.66000001877546,
+  "transferSize": 9401,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 175.5750000011176,
+  "connectStart": 175.5750000011176,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 175.5750000011176,
+  "domainLookupStart": 175.5750000011176,
+  "duration": 73.79499985836446,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 175.5750000011176,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 178.1249998603016,
+  "responseEnd": 249.36999985948205,
+  "responseStart": 228.08499983511865,
+  "secureConnectionStart": 175.5750000011176,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 175.5750000011176,
+  "transferSize": 22193,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 176.00500001572073,
+  "connectStart": 176.00500001572073,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 176.00500001572073,
+  "domainLookupStart": 176.00500001572073,
+  "duration": 60.13499991968274,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 176.00500001572073,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 178.40999993495643,
+  "responseEnd": 236.13999993540347,
+  "responseStart": 232.48000000603497,
+  "secureConnectionStart": 176.00500001572073,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 176.00500001572073,
+  "transferSize": 4953,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 185.36999984644353,
+  "connectStart": 185.36999984644353,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 185.36999984644353,
+  "domainLookupStart": 185.36999984644353,
+  "duration": 75.09499997831881,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 185.36999984644353,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 186.28499982878566,
+  "responseEnd": 260.46499982476234,
+  "responseStart": 248.86499997228384,
+  "secureConnectionStart": 185.36999984644353,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 185.36999984644353,
+  "transferSize": 2621,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 185.72999979369342,
+  "connectStart": 185.72999979369342,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 185.72999979369342,
+  "domainLookupStart": 185.72999979369342,
+  "duration": 75.87000005878508,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 185.72999979369342,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 186.61500001326203,
+  "responseEnd": 261.5999998524785,
+  "responseStart": 260.0949998013675,
+  "secureConnectionStart": 185.72999979369342,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 185.72999979369342,
+  "transferSize": 1742,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 221.70999995432794,
+  "connectStart": 221.70999995432794,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 221.70999995432794,
+  "domainLookupStart": 221.70999995432794,
+  "duration": 51.63499992340803,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 221.70999995432794,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 222.39000000990927,
+  "responseEnd": 273.344999877736,
+  "responseStart": 262.67499988898635,
+  "secureConnectionStart": 221.70999995432794,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 221.70999995432794,
+  "transferSize": 20764,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 239.69499999657273,
+  "connectStart": 239.69499999657273,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 239.69499999657273,
+  "domainLookupStart": 239.69499999657273,
+  "duration": 47.0849999692291,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 239.69499999657273,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 240.44499988667667,
+  "responseEnd": 286.77999996580184,
+  "responseStart": 285.42499989271164,
+  "secureConnectionStart": 239.69499999657273,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 239.69499999657273,
+  "transferSize": 2129,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 240.34000001847744,
+  "connectStart": 240.34000001847744,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 240.34000001847744,
+  "domainLookupStart": 240.34000001847744,
+  "duration": 46.704999869689345,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 240.34000001847744,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 241.13999982364476,
+  "responseEnd": 287.0449998881668,
+  "responseStart": 285.6049998663366,
+  "secureConnectionStart": 240.34000001847744,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 240.34000001847744,
+  "transferSize": 318,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 261.64499996230006,
+  "connectStart": 261.64499996230006,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 261.64499996230006,
+  "domainLookupStart": 261.64499996230006,
+  "duration": 41.865000035613775,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 261.64499996230006,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 262.4549998436123,
+  "responseEnd": 303.50999999791384,
+  "responseStart": 302.38999985158443,
+  "secureConnectionStart": 261.64499996230006,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 261.64499996230006,
+  "transferSize": 396,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 363.0349999293685,
+  "connectStart": 263.75499996356666,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 263.75499996356666,
+  "domainLookupStart": 263.3099998347461,
+  "duration": 150.11000004597008,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 262.64999993145466,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 365.27499998919666,
+  "responseEnd": 412.75999997742474,
+  "responseStart": 406.22999984771013,
+  "secureConnectionStart": 302.63499985449016,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 262.64999993145466,
+  "transferSize": 385,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 263.25999991968274,
+  "connectStart": 263.25999991968274,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 263.25999991968274,
+  "domainLookupStart": 263.25999991968274,
+  "duration": 149.24499997869134,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 263.25999991968274,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 365.36499997600913,
+  "responseEnd": 412.5049998983741,
+  "responseStart": 406.03499999269843,
+  "secureConnectionStart": 263.25999991968274,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 263.25999991968274,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 265.6849999912083,
+  "connectStart": 265.6849999912083,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 265.6849999912083,
+  "domainLookupStart": 265.6849999912083,
+  "duration": 43.06999989785254,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 265.6849999912083,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 266.65999996475875,
+  "responseEnd": 308.75499988906085,
+  "responseStart": 307.5349999126047,
+  "secureConnectionStart": 265.6849999912083,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 265.6849999912083,
+  "transferSize": 326,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 267.3449998255819,
+  "connectStart": 267.3449998255819,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 267.3449998255819,
+  "domainLookupStart": 267.3449998255819,
+  "duration": 42.66000003553927,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 267.3449998255819,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 268.1399998255074,
+  "responseEnd": 310.0049998611212,
+  "responseStart": 307.92499985545874,
+  "secureConnectionStart": 267.3449998255819,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 267.3449998255819,
+  "transferSize": 305,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 507.77000002563,
+  "toJSON": {}
+}{
+  "connectEnd": 536.1150000244379,
+  "connectStart": 536.1150000244379,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 536.1150000244379,
+  "domainLookupStart": 536.1150000244379,
+  "duration": 43.71499991975725,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 536.1150000244379,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 537.3749998398125,
+  "responseEnd": 579.8299999441952,
+  "responseStart": 577.8999999165535,
+  "secureConnectionStart": 536.1150000244379,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 536.1150000244379,
+  "transferSize": 7267,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 537.0049998164177,
+  "connectStart": 537.0049998164177,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 537.0049998164177,
+  "domainLookupStart": 537.0049998164177,
+  "duration": 49.28999999538064,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 537.0049998164177,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 538.2049998734146,
+  "responseEnd": 586.2949998117983,
+  "responseStart": 580.8299998752773,
+  "secureConnectionStart": 537.0049998164177,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 537.0049998164177,
+  "transferSize": 15136,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 538.5449999012053,
+  "connectStart": 538.5449999012053,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 538.5449999012053,
+  "domainLookupStart": 538.5449999012053,
+  "duration": 120.46499992720783,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 538.5449999012053,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 539.3850000109524,
+  "responseEnd": 659.0099998284131,
+  "responseStart": 582.5000000186265,
+  "secureConnectionStart": 538.5449999012053,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 538.5449999012053,
+  "transferSize": 140278,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 697.2550000064075,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 697.2550000064075,
+  "toJSON": {}
+}{
+  "connectEnd": 101.89499985426664,
+  "connectStart": 5.260000005364418,
+  "decodedBodySize": 59193,
+  "domComplete": 645.6199998501688,
+  "domContentLoadedEventEnd": 438.9849998988211,
+  "domContentLoadedEventStart": 438.97999986074865,
+  "domInteractive": 438.9599999412894,
+  "domainLookupEnd": 5.260000005364418,
+  "domainLookupStart": 5.235000047832727,
+  "duration": 645.7199999131262,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 1.2349998578429222,
+  "initiatorType": "navigation",
+  "loadEventEnd": 645.7199999131262,
+  "loadEventStart": 645.7099998369813,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 104.04499992728233,
+  "responseEnd": 183.784999884665,
+  "responseStart": 143.51999992504716,
+  "secureConnectionStart": 54.724999936297536,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 178.65999997593462,
+  "connectStart": 178.65999997593462,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 178.65999997593462,
+  "domainLookupStart": 178.65999997593462,
+  "duration": 52.93500004336238,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 178.65999997593462,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 183.29999991692603,
+  "responseEnd": 231.595000019297,
+  "responseStart": 225.07499996572733,
+  "secureConnectionStart": 178.65999997593462,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 178.65999997593462,
+  "transferSize": 9402,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 179.40000002272427,
+  "connectStart": 179.40000002272427,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 179.40000002272427,
+  "domainLookupStart": 179.40000002272427,
+  "duration": 74.92499984800816,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 179.40000002272427,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 184.3299998436123,
+  "responseEnd": 254.32499987073243,
+  "responseStart": 232.43999993428588,
+  "secureConnectionStart": 179.40000002272427,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 179.40000002272427,
+  "transferSize": 22194,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 180.17999990843236,
+  "connectStart": 180.17999990843236,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 180.17999990843236,
+  "domainLookupStart": 180.17999990843236,
+  "duration": 52.57500009611249,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 180.17999990843236,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 184.41500002518296,
+  "responseEnd": 232.75500000454485,
+  "responseStart": 230.37000000476837,
+  "secureConnectionStart": 180.17999990843236,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 180.17999990843236,
+  "transferSize": 4953,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 263.27999983914196,
+  "connectStart": 263.27999983914196,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 263.27999983914196,
+  "domainLookupStart": 263.27999983914196,
+  "duration": 59.47500001639128,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 263.27999983914196,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 264.0400000382215,
+  "responseEnd": 322.75499985553324,
+  "responseStart": 321.9200000166893,
+  "secureConnectionStart": 263.27999983914196,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 263.27999983914196,
+  "transferSize": 2621,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 263.4900000412017,
+  "connectStart": 263.4900000412017,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 263.4900000412017,
+  "domainLookupStart": 263.4900000412017,
+  "duration": 68.43499979004264,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 263.4900000412017,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 264.3450000323355,
+  "responseEnd": 331.92499983124435,
+  "responseStart": 322.0499998424202,
+  "secureConnectionStart": 263.4900000412017,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 263.4900000412017,
+  "transferSize": 1742,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 264.0849999152124,
+  "connectStart": 264.0849999152124,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 264.0849999152124,
+  "domainLookupStart": 264.0849999152124,
+  "duration": 91.96000010706484,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 264.0849999152124,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 264.9599998258054,
+  "responseEnd": 356.04500002227724,
+  "responseStart": 330.1949999295175,
+  "secureConnectionStart": 264.0849999152124,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 264.0849999152124,
+  "transferSize": 20763,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 272.82499987632036,
+  "connectStart": 272.82499987632036,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 272.82499987632036,
+  "domainLookupStart": 272.82499987632036,
+  "duration": 59.760000091046095,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 272.82499987632036,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 273.429999826476,
+  "responseEnd": 332.58499996736646,
+  "responseStart": 330.3849999792874,
+  "secureConnectionStart": 272.82499987632036,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 272.82499987632036,
+  "transferSize": 2129,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 273.4399999026209,
+  "connectStart": 273.4399999026209,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 273.4399999026209,
+  "domainLookupStart": 273.4399999026209,
+  "duration": 85.76499996706843,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 273.4399999026209,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 274.0749998483807,
+  "responseEnd": 359.20499986968935,
+  "responseStart": 355.70499999448657,
+  "secureConnectionStart": 273.4399999026209,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 273.4399999026209,
+  "transferSize": 256,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 276.91999985836446,
+  "connectStart": 276.91999985836446,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 276.91999985836446,
+  "domainLookupStart": 276.91999985836446,
+  "duration": 82.07000000402331,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 276.91999985836446,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 277.5250000413507,
+  "responseEnd": 358.9899998623878,
+  "responseStart": 355.574999935925,
+  "secureConnectionStart": 276.91999985836446,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 276.91999985836446,
+  "transferSize": 458,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 397.1849998924881,
+  "connectStart": 278.77500001341105,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 278.77500001341105,
+  "domainLookupStart": 278.52499997243285,
+  "duration": 171.28500016406178,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 277.46999985538423,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 398.30000000074506,
+  "responseEnd": 448.755000019446,
+  "responseStart": 446.93499989807606,
+  "secureConnectionStart": 330.58499987237155,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 277.46999985538423,
+  "transferSize": 386,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 277.8949998319149,
+  "connectStart": 277.8949998319149,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 277.8949998319149,
+  "domainLookupStart": 277.8949998319149,
+  "duration": 170.54000007919967,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 277.8949998319149,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 398.3350000344217,
+  "responseEnd": 448.4349999111146,
+  "responseStart": 446.69999997131526,
+  "secureConnectionStart": 277.8949998319149,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 277.8949998319149,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 279.11000000312924,
+  "connectStart": 279.11000000312924,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 279.11000000312924,
+  "domainLookupStart": 279.11000000312924,
+  "duration": 80.30999987386167,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 279.11000000312924,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 279.7299998346716,
+  "responseEnd": 359.4199998769909,
+  "responseStart": 355.7749998290092,
+  "secureConnectionStart": 279.11000000312924,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 279.11000000312924,
+  "transferSize": 326,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 280.4300000425428,
+  "connectStart": 280.4300000425428,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 280.4300000425428,
+  "domainLookupStart": 280.4300000425428,
+  "duration": 79.17999988421798,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 280.4300000425428,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 281.01499984040856,
+  "responseEnd": 359.6099999267608,
+  "responseStart": 355.83999985828996,
+  "secureConnectionStart": 280.4300000425428,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 280.4300000425428,
+  "transferSize": 305,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 475.70499987341464,
+  "toJSON": {}
+}{
+  "connectEnd": 494.68000000342727,
+  "connectStart": 494.68000000342727,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 494.68000000342727,
+  "domainLookupStart": 494.68000000342727,
+  "duration": 52.029999904334545,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 494.68000000342727,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 495.8399999886751,
+  "responseEnd": 546.7099999077618,
+  "responseStart": 536.2249999307096,
+  "secureConnectionStart": 494.68000000342727,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 494.68000000342727,
+  "transferSize": 7276,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 495.56499999016523,
+  "connectStart": 495.56499999016523,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 495.56499999016523,
+  "domainLookupStart": 495.56499999016523,
+  "duration": 57.64500005170703,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 495.56499999016523,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 496.7000000178814,
+  "responseEnd": 553.2100000418723,
+  "responseStart": 546.2749998550862,
+  "secureConnectionStart": 495.56499999016523,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 495.56499999016523,
+  "transferSize": 15135,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 496.8449999578297,
+  "connectStart": 496.8449999578297,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 496.8449999578297,
+  "domainLookupStart": 496.8449999578297,
+  "duration": 132.15499999932945,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 496.8449999578297,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 497.6049999240786,
+  "responseEnd": 628.9999999571592,
+  "responseStart": 552.750000031665,
+  "secureConnectionStart": 496.8449999578297,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 496.8449999578297,
+  "transferSize": 140278,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 602.2699999157339,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 602.2699999157339,
+  "toJSON": {}
+}{
+  "connectEnd": 85.71000001393259,
+  "connectStart": 2.3300000466406345,
+  "decodedBodySize": 59193,
+  "domComplete": 669.1449999343604,
+  "domContentLoadedEventEnd": 229.03999988920987,
+  "domContentLoadedEventStart": 229.0349998511374,
+  "domInteractive": 228.97999989800155,
+  "domainLookupEnd": 2.3300000466406345,
+  "domainLookupStart": 2.3049998562783003,
+  "duration": 669.179999968037,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 0.7199998944997787,
+  "initiatorType": "navigation",
+  "loadEventEnd": 669.179999968037,
+  "loadEventStart": 669.1699998918921,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 87.70000003278255,
+  "responseEnd": 175.25499989278615,
+  "responseStart": 129.59000002592802,
+  "secureConnectionStart": 41.31000000052154,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 162.29999996721745,
+  "connectStart": 162.29999996721745,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 162.29999996721745,
+  "domainLookupStart": 162.29999996721745,
+  "duration": 63.00499988719821,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 162.29999996721745,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 166.99000005610287,
+  "responseEnd": 225.30499985441566,
+  "responseStart": 209.98999988660216,
+  "secureConnectionStart": 162.29999996721745,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 162.29999996721745,
+  "transferSize": 9337,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 162.71999990567565,
+  "connectStart": 162.71999990567565,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 162.71999990567565,
+  "domainLookupStart": 162.71999990567565,
+  "duration": 78.00500001758337,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 162.71999990567565,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 167.30999993160367,
+  "responseEnd": 240.72499992325902,
+  "responseStart": 210.59999987483025,
+  "secureConnectionStart": 162.71999990567565,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 162.71999990567565,
+  "transferSize": 22195,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 163.01000001840293,
+  "connectStart": 163.01000001840293,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 163.01000001840293,
+  "domainLookupStart": 163.01000001840293,
+  "duration": 51.084999926388264,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 163.01000001840293,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 167.54499985836446,
+  "responseEnd": 214.0949999447912,
+  "responseStart": 207.9999998677522,
+  "secureConnectionStart": 163.01000001840293,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 163.01000001840293,
+  "transferSize": 5018,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 177.93500004336238,
+  "connectStart": 177.93500004336238,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 177.93500004336238,
+  "domainLookupStart": 177.93500004336238,
+  "duration": 71.20999996550381,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 177.93500004336238,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 181.00499990396202,
+  "responseEnd": 249.1450000088662,
+  "responseStart": 247.85499996505678,
+  "secureConnectionStart": 177.93500004336238,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 177.93500004336238,
+  "transferSize": 2621,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 178.31999994814396,
+  "connectStart": 178.31999994814396,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 178.31999994814396,
+  "domainLookupStart": 178.31999994814396,
+  "duration": 71.08999998308718,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 178.31999994814396,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 181.3049998600036,
+  "responseEnd": 249.40999993123114,
+  "responseStart": 248.03499993868172,
+  "secureConnectionStart": 178.31999994814396,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 178.31999994814396,
+  "transferSize": 1742,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 213.05499994195998,
+  "connectStart": 213.05499994195998,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 213.05499994195998,
+  "domainLookupStart": 213.05499994195998,
+  "duration": 81.49500004947186,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 213.05499994195998,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 214.58499995060265,
+  "responseEnd": 294.54999999143183,
+  "responseStart": 288.32499985583127,
+  "secureConnectionStart": 213.05499994195998,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 213.05499994195998,
+  "transferSize": 20767,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 231.5700000617653,
+  "connectStart": 231.5700000617653,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 231.5700000617653,
+  "domainLookupStart": 231.5700000617653,
+  "duration": 57.149999774992466,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 231.5700000617653,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 232.42000001482666,
+  "responseEnd": 288.7199998367578,
+  "responseStart": 287.19999990426004,
+  "secureConnectionStart": 231.5700000617653,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 231.5700000617653,
+  "transferSize": 2128,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 232.3499999474734,
+  "connectStart": 232.3499999474734,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 232.3499999474734,
+  "domainLookupStart": 232.3499999474734,
+  "duration": 58.79999999888241,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 232.3499999474734,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 233.09999983757734,
+  "responseEnd": 291.1499999463558,
+  "responseStart": 288.11999992467463,
+  "secureConnectionStart": 232.3499999474734,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 232.3499999474734,
+  "transferSize": 314,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 255.54999988526106,
+  "connectStart": 255.54999988526106,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 255.54999988526106,
+  "domainLookupStart": 255.54999988526106,
+  "duration": 45.769999967888,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 255.54999988526106,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 256.3950000330806,
+  "responseEnd": 301.31999985314906,
+  "responseStart": 299.8399999924004,
+  "secureConnectionStart": 255.54999988526106,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 255.54999988526106,
+  "transferSize": 396,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 347.21499984152615,
+  "connectStart": 258.87000001966953,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 258.87000001966953,
+  "domainLookupStart": 258.85499990545213,
+  "duration": 136.9349998421967,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 256.9150000344962,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 348.98999985307455,
+  "responseEnd": 393.8499998766929,
+  "responseStart": 391.8049999047071,
+  "secureConnectionStart": 300.0749999191612,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 256.9150000344962,
+  "transferSize": 385,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 257.6699999626726,
+  "connectStart": 257.6699999626726,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 257.6699999626726,
+  "domainLookupStart": 257.6699999626726,
+  "duration": 135.95500006340444,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 257.6699999626726,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 349.04500003904104,
+  "responseEnd": 393.62500002607703,
+  "responseStart": 391.49000006727874,
+  "secureConnectionStart": 257.6699999626726,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 257.6699999626726,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 259.3699998687953,
+  "connectStart": 259.3699998687953,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 259.3699998687953,
+  "domainLookupStart": 259.3699998687953,
+  "duration": 44.78500015102327,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 259.3699998687953,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 260.04499988630414,
+  "responseEnd": 304.15500001981854,
+  "responseStart": 301.1449999175966,
+  "secureConnectionStart": 259.3699998687953,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 259.3699998687953,
+  "transferSize": 326,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 260.72999997995794,
+  "connectStart": 260.72999997995794,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 260.72999997995794,
+  "domainLookupStart": 260.72999997995794,
+  "duration": 43.68499992415309,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 260.72999997995794,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 261.4400000311434,
+  "responseEnd": 304.414999904111,
+  "responseStart": 302.87500005215406,
+  "secureConnectionStart": 260.72999997995794,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 260.72999997995794,
+  "transferSize": 305,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 495.3199999872595,
+  "toJSON": {}
+}{
+  "connectEnd": 520.6599999219179,
+  "connectStart": 520.6599999219179,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 520.6599999219179,
+  "domainLookupStart": 520.6599999219179,
+  "duration": 49.64999994263053,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 520.6599999219179,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 522.0850000623614,
+  "responseEnd": 570.3099998645484,
+  "responseStart": 568.3399999979883,
+  "secureConnectionStart": 520.6599999219179,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 520.6599999219179,
+  "transferSize": 7267,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 521.4849999174476,
+  "connectStart": 521.4849999174476,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 521.4849999174476,
+  "domainLookupStart": 521.4849999174476,
+  "duration": 52.21999995410442,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 521.4849999174476,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 522.5799998734146,
+  "responseEnd": 573.704999871552,
+  "responseStart": 569.4349999539554,
+  "secureConnectionStart": 521.4849999174476,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 521.4849999174476,
+  "transferSize": 15135,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 522.7399999275804,
+  "connectStart": 522.7399999275804,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 522.7399999275804,
+  "domainLookupStart": 522.7399999275804,
+  "duration": 130.2849999628961,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 522.7399999275804,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 523.5099999699742,
+  "responseEnd": 653.0249998904765,
+  "responseStart": 573.1649999506772,
+  "secureConnectionStart": 522.7399999275804,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 522.7399999275804,
+  "transferSize": 140278,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 639.1050000675023,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 639.1050000675023,
+  "toJSON": {}
+}{
+  "connectEnd": 95.09499999694526,
+  "connectStart": 4.024999914690852,
+  "decodedBodySize": 59193,
+  "domComplete": 840.6450001057237,
+  "domContentLoadedEventEnd": 779.7600000631064,
+  "domContentLoadedEventStart": 779.755000025034,
+  "domInteractive": 779.7350001055747,
+  "domainLookupEnd": 4.024999914690852,
+  "domainLookupStart": 3.809999907389283,
+  "duration": 840.7449999358505,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 1.6799999866634607,
+  "initiatorType": "navigation",
+  "loadEventEnd": 840.7449999358505,
+  "loadEventStart": 840.7350000925362,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 97.03000006265938,
+  "responseEnd": 199.43500007502735,
+  "responseStart": 149.64499999769032,
+  "secureConnectionStart": 46.54500004835427,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 198.1099999975413,
+  "connectStart": 198.1099999975413,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 198.1099999975413,
+  "domainLookupStart": 198.1099999975413,
+  "duration": 69.73000010475516,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 198.1099999975413,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 204.86499997787178,
+  "responseEnd": 267.8400001022965,
+  "responseStart": 244.22500003129244,
+  "secureConnectionStart": 198.1099999975413,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 198.1099999975413,
+  "transferSize": 9401,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 198.6799999140203,
+  "connectStart": 198.6799999140203,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 198.6799999140203,
+  "domainLookupStart": 198.6799999140203,
+  "duration": 69.8500000871718,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 198.6799999140203,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 205.18500008620322,
+  "responseEnd": 268.5300000011921,
+  "responseStart": 245.460000121966,
+  "secureConnectionStart": 198.6799999140203,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 198.6799999140203,
+  "transferSize": 22196,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 199.22000006772578,
+  "connectStart": 199.22000006772578,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 199.22000006772578,
+  "domainLookupStart": 199.22000006772578,
+  "duration": 93.46499992534518,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 199.22000006772578,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 206.27500000409782,
+  "responseEnd": 292.68499999307096,
+  "responseStart": 252.31499993242323,
+  "secureConnectionStart": 199.22000006772578,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 199.22000006772578,
+  "transferSize": 4954,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 361.36500001884997,
+  "connectStart": 361.36500001884997,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 361.36500001884997,
+  "domainLookupStart": 361.36500001884997,
+  "duration": 51.9749999511987,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 361.36500001884997,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 370.77499995939434,
+  "responseEnd": 413.33999997004867,
+  "responseStart": 410.41500004939735,
+  "secureConnectionStart": 361.36500001884997,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 361.36500001884997,
+  "transferSize": 20808,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 371.0499999579042,
+  "connectStart": 371.0499999579042,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 371.0499999579042,
+  "domainLookupStart": 371.0499999579042,
+  "duration": 48.949999967589974,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 371.0499999579042,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 372.3649999592453,
+  "responseEnd": 419.9999999254942,
+  "responseStart": 418.6350000090897,
+  "secureConnectionStart": 371.0499999579042,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 371.0499999579042,
+  "transferSize": 2128,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 372.10500007495284,
+  "connectStart": 372.10500007495284,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 372.10500007495284,
+  "domainLookupStart": 372.10500007495284,
+  "duration": 48.13000001013279,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 372.10500007495284,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 373.60500008799136,
+  "responseEnd": 420.23500008508563,
+  "responseStart": 418.8200000207871,
+  "secureConnectionStart": 372.10500007495284,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 372.10500007495284,
+  "transferSize": 312,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 486.3950000144541,
+  "connectStart": 486.3950000144541,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 486.3950000144541,
+  "domainLookupStart": 486.3950000144541,
+  "duration": 82.06499996595085,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 486.3950000144541,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 491.2900000344962,
+  "responseEnd": 568.459999980405,
+  "responseStart": 549.3699999060482,
+  "secureConnectionStart": 486.3950000144541,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 486.3950000144541,
+  "transferSize": 2577,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 486.7100000847131,
+  "connectStart": 486.7100000847131,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 486.7100000847131,
+  "domainLookupStart": 486.7100000847131,
+  "duration": 82.010000012815,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 486.7100000847131,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 491.61499994806945,
+  "responseEnd": 568.7200000975281,
+  "responseStart": 553.0850000213832,
+  "secureConnectionStart": 486.7100000847131,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 486.7100000847131,
+  "transferSize": 1746,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 514.9000000674278,
+  "toJSON": {}
+}{
+  "connectEnd": 545.3300001099706,
+  "connectStart": 545.3300001099706,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 545.3300001099706,
+  "domainLookupStart": 545.3300001099706,
+  "duration": 64.77999989874661,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 545.3300001099706,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 565.2149999514222,
+  "responseEnd": 610.1100000087172,
+  "responseStart": 606.1050000134856,
+  "secureConnectionStart": 545.3300001099706,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 545.3300001099706,
+  "transferSize": 7236,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 546.2700000498444,
+  "connectStart": 546.2700000498444,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 546.2700000498444,
+  "domainLookupStart": 546.2700000498444,
+  "duration": 61.92500004544854,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 546.2700000498444,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 565.6900000758469,
+  "responseEnd": 608.1950000952929,
+  "responseStart": 605.5700001306832,
+  "secureConnectionStart": 546.2700000498444,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 546.2700000498444,
+  "transferSize": 15173,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 547.3849999252707,
+  "connectStart": 547.3849999252707,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 547.3849999252707,
+  "domainLookupStart": 547.3849999252707,
+  "duration": 123.9250001963228,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 547.3849999252707,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 565.8299999777228,
+  "responseEnd": 671.3100001215935,
+  "responseStart": 609.0450000483543,
+  "secureConnectionStart": 547.3849999252707,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 547.3849999252707,
+  "transferSize": 140287,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 552.9249999672174,
+  "connectStart": 552.9249999672174,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 552.9249999672174,
+  "domainLookupStart": 552.9249999672174,
+  "duration": 59.905000030994415,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 552.9249999672174,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 566.6350000537932,
+  "responseEnd": 612.8299999982119,
+  "responseStart": 608.8950000703335,
+  "secureConnectionStart": 552.9249999672174,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 552.9249999672174,
+  "transferSize": 390,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 668.4799999929965,
+  "connectStart": 567.879999987781,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 567.879999987781,
+  "domainLookupStart": 566.3350000977516,
+  "duration": 170.7850000821054,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 554.3549999129027,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 671.6799999121577,
+  "responseEnd": 725.1399999950081,
+  "responseStart": 719.1900000907481,
+  "secureConnectionStart": 616.965000052005,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 554.3549999129027,
+  "transferSize": 609,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 554.9449999816716,
+  "connectStart": 554.9449999816716,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 554.9449999816716,
+  "domainLookupStart": 554.9449999816716,
+  "duration": 170.685000019148,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 554.9449999816716,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 671.7350000981241,
+  "responseEnd": 725.6300000008196,
+  "responseStart": 719.5999999530613,
+  "secureConnectionStart": 554.9449999816716,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 554.9449999816716,
+  "transferSize": 502,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 556.55000009574,
+  "connectStart": 556.55000009574,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 556.55000009574,
+  "domainLookupStart": 556.55000009574,
+  "duration": 54.989999858662486,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 556.55000009574,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 567.1800000127405,
+  "responseEnd": 611.5399999544024,
+  "responseStart": 607.5349999591708,
+  "secureConnectionStart": 556.55000009574,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 556.55000009574,
+  "transferSize": 329,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 558.1449999008328,
+  "connectStart": 558.1449999008328,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 558.1449999008328,
+  "domainLookupStart": 558.1449999008328,
+  "duration": 55.03500020131469,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 558.1449999008328,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 567.805000115186,
+  "responseEnd": 613.1800001021475,
+  "responseStart": 609.6099999267608,
+  "secureConnectionStart": 558.1449999008328,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 558.1449999008328,
+  "transferSize": 306,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 677.1050000097603,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 677.1050000097603,
+  "toJSON": {}
+}{
+  "connectEnd": 105.34500004723668,
+  "connectStart": 4.874999867752194,
+  "decodedBodySize": 59193,
+  "domComplete": 858.7849999312311,
+  "domContentLoadedEventEnd": 724.7049999423325,
+  "domContentLoadedEventStart": 724.6949998661876,
+  "domInteractive": 724.6649998705834,
+  "domainLookupEnd": 4.874999867752194,
+  "domainLookupStart": 4.849999910220504,
+  "duration": 860.5450000613928,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 1.6999999061226845,
+  "initiatorType": "navigation",
+  "loadEventEnd": 860.5450000613928,
+  "loadEventStart": 858.8799999561161,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 107.34499990940094,
+  "responseEnd": 220.57999996468425,
+  "responseStart": 165.82999983802438,
+  "secureConnectionStart": 53.044999949634075,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 198.9749998319894,
+  "connectStart": 198.9749998319894,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 198.9749998319894,
+  "domainLookupStart": 198.9749998319894,
+  "duration": 67.75000016205013,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 198.9749998319894,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 210.94999997876585,
+  "responseEnd": 266.72499999403954,
+  "responseStart": 260.7449998613447,
+  "secureConnectionStart": 198.9749998319894,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 198.9749998319894,
+  "transferSize": 9402,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 199.4349998421967,
+  "connectStart": 199.4349998421967,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 199.4349998421967,
+  "domainLookupStart": 199.4349998421967,
+  "duration": 99.92000018246472,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 199.4349998421967,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 211.4249998703599,
+  "responseEnd": 299.3550000246614,
+  "responseStart": 272.8750000242144,
+  "secureConnectionStart": 199.4349998421967,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 199.4349998421967,
+  "transferSize": 22196,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 200.3049999475479,
+  "connectStart": 200.3049999475479,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 200.3049999475479,
+  "domainLookupStart": 200.3049999475479,
+  "duration": 73.27000005170703,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 200.3049999475479,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 212.1500000357628,
+  "responseEnd": 273.57499999925494,
+  "responseStart": 269.4699999410659,
+  "secureConnectionStart": 200.3049999475479,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 200.3049999475479,
+  "transferSize": 4954,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 327.6049999985844,
+  "connectStart": 327.6049999985844,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 327.6049999985844,
+  "domainLookupStart": 327.6049999985844,
+  "duration": 63.679999904707074,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 327.6049999985844,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 328.34999985061586,
+  "responseEnd": 391.28499990329146,
+  "responseStart": 384.52499988488853,
+  "secureConnectionStart": 327.6049999985844,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 327.6049999985844,
+  "transferSize": 20808,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 339.04999983496964,
+  "connectStart": 339.04999983496964,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 339.04999983496964,
+  "domainLookupStart": 339.04999983496964,
+  "duration": 65.4050000011921,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 339.04999983496964,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 339.93500005453825,
+  "responseEnd": 404.45499983616173,
+  "responseStart": 403.4899999387562,
+  "secureConnectionStart": 339.04999983496964,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 339.04999983496964,
+  "transferSize": 2577,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 339.75999988615513,
+  "connectStart": 339.75999988615513,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 339.75999988615513,
+  "domainLookupStart": 339.75999988615513,
+  "duration": 69.00500017218292,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 339.75999988615513,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 340.8949999138713,
+  "responseEnd": 408.76500005833805,
+  "responseStart": 407.26000000722706,
+  "secureConnectionStart": 339.75999988615513,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 339.75999988615513,
+  "transferSize": 1743,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 343.0649999063462,
+  "connectStart": 343.0649999063462,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 343.0649999063462,
+  "domainLookupStart": 343.0649999063462,
+  "duration": 65.49499998800457,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 343.0649999063462,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 343.82999991066754,
+  "responseEnd": 408.55999989435077,
+  "responseStart": 407.0649999193847,
+  "secureConnectionStart": 343.0649999063462,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 343.0649999063462,
+  "transferSize": 2128,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 344.2299999296665,
+  "connectStart": 344.2299999296665,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 344.2299999296665,
+  "domainLookupStart": 344.2299999296665,
+  "duration": 77.64500007033348,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 344.2299999296665,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 344.89499987103045,
+  "responseEnd": 421.875,
+  "responseStart": 420.96999986097217,
+  "secureConnectionStart": 344.2299999296665,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 344.2299999296665,
+  "transferSize": 318,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 472.0250000245869,
+  "toJSON": {}
+}{
+  "connectEnd": 502.30999989435077,
+  "connectStart": 502.30999989435077,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 502.30999989435077,
+  "domainLookupStart": 502.30999989435077,
+  "duration": 92.04500005580485,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 502.30999989435077,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 528.0999999959022,
+  "responseEnd": 594.3549999501556,
+  "responseStart": 576.5549999196082,
+  "secureConnectionStart": 502.30999989435077,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 502.30999989435077,
+  "transferSize": 7274,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 503.2499998342246,
+  "connectStart": 503.2499998342246,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 503.2499998342246,
+  "domainLookupStart": 503.2499998342246,
+  "duration": 98.83000003173947,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 503.2499998342246,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 528.5799999255687,
+  "responseEnd": 602.079999865964,
+  "responseStart": 579.7399999573827,
+  "secureConnectionStart": 503.2499998342246,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 503.2499998342246,
+  "transferSize": 15135,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 504.35999990440905,
+  "connectStart": 504.35999990440905,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 504.35999990440905,
+  "domainLookupStart": 504.35999990440905,
+  "duration": 173.79499995149672,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 504.35999990440905,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 528.6550000309944,
+  "responseEnd": 678.1549998559058,
+  "responseStart": 601.2549998704344,
+  "secureConnectionStart": 504.35999990440905,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 504.35999990440905,
+  "transferSize": 140277,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 508.5499999113381,
+  "connectStart": 508.5499999113381,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 508.5499999113381,
+  "domainLookupStart": 508.5499999113381,
+  "duration": 95.8600000012666,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 508.5499999113381,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 528.8149998523295,
+  "responseEnd": 604.4099999126047,
+  "responseStart": 601.0399998631328,
+  "secureConnectionStart": 508.5499999113381,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 508.5499999113381,
+  "transferSize": 390,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 631.5049999393523,
+  "connectStart": 529.7349998727441,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 529.7349998727441,
+  "domainLookupStart": 528.9399998728186,
+  "duration": 174.61500014178455,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 509.3049998395145,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 633.8499998673797,
+  "responseEnd": 683.919999981299,
+  "responseStart": 682.5399999506772,
+  "secureConnectionStart": 579.2849999852479,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 509.3049998395145,
+  "transferSize": 386,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 509.74999996833503,
+  "connectStart": 509.74999996833503,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 509.74999996833503,
+  "domainLookupStart": 509.74999996833503,
+  "duration": 173.91999997198582,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 509.74999996833503,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 633.9199999347329,
+  "responseEnd": 683.6699999403208,
+  "responseStart": 681.9649999961257,
+  "secureConnectionStart": 509.74999996833503,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 509.74999996833503,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 511.0799998510629,
+  "connectStart": 511.0799998510629,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 511.0799998510629,
+  "domainLookupStart": 511.0799998510629,
+  "duration": 93.83999998681247,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 511.0799998510629,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 530.0000000279397,
+  "responseEnd": 604.9199998378754,
+  "responseStart": 601.4749999158084,
+  "secureConnectionStart": 511.0799998510629,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 511.0799998510629,
+  "transferSize": 329,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 512.5649999827147,
+  "connectStart": 512.5649999827147,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 512.5649999827147,
+  "domainLookupStart": 512.5649999827147,
+  "duration": 92.56999986246228,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 512.5649999827147,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 530.144999967888,
+  "responseEnd": 605.1349998451769,
+  "responseStart": 601.6150000505149,
+  "secureConnectionStart": 512.5649999827147,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 512.5649999827147,
+  "transferSize": 306,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-paint",
+  "startTime": 605.5399999022484,
+  "toJSON": {}
+}{
+  "duration": 0,
+  "entryType": "paint",
+  "name": "first-contentful-paint",
+  "startTime": 605.5399999022484,
+  "toJSON": {}
+}{
+  "connectEnd": 111.64999986067414,
+  "connectStart": 2.474999986588955,
+  "decodedBodySize": 59193,
+  "domComplete": 715.9649999812245,
+  "domContentLoadedEventEnd": 314.4449999090284,
+  "domContentLoadedEventStart": 314.43999987095594,
+  "domInteractive": 314.38999995589256,
+  "domainLookupEnd": 2.474999986588955,
+  "domainLookupStart": 2.42499983869493,
+  "duration": 718.204999808222,
+  "encodedBodySize": 15795,
+  "entryType": "navigation",
+  "fetchStart": 0.7299999706447124,
+  "initiatorType": "navigation",
+  "loadEventEnd": 718.204999808222,
+  "loadEventStart": 716.0000000149012,
+  "name": "https://en.wikipedia.org/wiki/Software_metric",
+  "nextHopProtocol": "h2",
+  "redirectCount": 0,
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 112.86999983713031,
+  "responseEnd": 226.71999991871417,
+  "responseStart": 169.93999993428588,
+  "secureConnectionStart": 56.499999947845936,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 0,
+  "transferSize": 16443,
+  "type": "navigate",
+  "unloadEventEnd": 0,
+  "unloadEventStart": 0,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 207.0349999703467,
+  "connectStart": 207.0349999703467,
+  "decodedBodySize": 39257,
+  "domainLookupEnd": 207.0349999703467,
+  "domainLookupStart": 207.0349999703467,
+  "duration": 60.30999985523522,
+  "encodedBodySize": 8943,
+  "entryType": "resource",
+  "fetchStart": 207.0349999703467,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 211.30499988794327,
+  "responseEnd": 267.3449998255819,
+  "responseStart": 264.15499998256564,
+  "secureConnectionStart": 207.0349999703467,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 207.0349999703467,
+  "transferSize": 9402,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 207.48999994248152,
+  "connectStart": 207.48999994248152,
+  "decodedBodySize": 68057,
+  "domainLookupEnd": 207.48999994248152,
+  "domainLookupStart": 207.48999994248152,
+  "duration": 72.1700000576675,
+  "encodedBodySize": 22034,
+  "entryType": "resource",
+  "fetchStart": 207.48999994248152,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 211.72499982640147,
+  "responseEnd": 279.660000000149,
+  "responseStart": 264.6649999078363,
+  "secureConnectionStart": 207.48999994248152,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 207.48999994248152,
+  "transferSize": 22196,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 207.89499999955297,
+  "connectStart": 207.89499999955297,
+  "decodedBodySize": 18437,
+  "domainLookupEnd": 207.89499999955297,
+  "domainLookupStart": 207.89499999955297,
+  "duration": 103.8399999961257,
+  "encodedBodySize": 4823,
+  "entryType": "resource",
+  "fetchStart": 207.89499999955297,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 211.7999999318272,
+  "responseEnd": 311.73499999567866,
+  "responseStart": 279.23500002361834,
+  "secureConnectionStart": 207.89499999955297,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 207.89499999955297,
+  "transferSize": 4953,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 228.47500001080334,
+  "connectStart": 228.47500001080334,
+  "decodedBodySize": 2426,
+  "domainLookupEnd": 228.47500001080334,
+  "domainLookupStart": 228.47500001080334,
+  "duration": 88.91499997116625,
+  "encodedBodySize": 2426,
+  "entryType": "resource",
+  "fetchStart": 228.47500001080334,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/wikimedia-button.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 229.21499982476234,
+  "responseEnd": 317.3899999819696,
+  "responseStart": 311.3549998961389,
+  "secureConnectionStart": 228.47500001080334,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 228.47500001080334,
+  "transferSize": 2621,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 228.72000001370907,
+  "connectStart": 228.72000001370907,
+  "decodedBodySize": 1582,
+  "domainLookupEnd": 228.72000001370907,
+  "domainLookupStart": 228.72000001370907,
+  "duration": 90.62999999150634,
+  "encodedBodySize": 1582,
+  "entryType": "resource",
+  "fetchStart": 228.72000001370907,
+  "initiatorType": "img",
+  "name": "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 229.50499993748963,
+  "responseEnd": 319.3500000052154,
+  "responseStart": 316.96999981068075,
+  "secureConnectionStart": 228.72000001370907,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 228.72000001370907,
+  "transferSize": 1742,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 266.70499984174967,
+  "connectStart": 266.70499984174967,
+  "decodedBodySize": 20616,
+  "domainLookupEnd": 266.70499984174967,
+  "domainLookupStart": 266.70499984174967,
+  "duration": 57.530000107362866,
+  "encodedBodySize": 20616,
+  "entryType": "resource",
+  "fetchStart": 266.70499984174967,
+  "initiatorType": "link",
+  "name": "https://en.wikipedia.org/static/images/project-logos/enwiki.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 268.62999983131886,
+  "responseEnd": 324.23499994911253,
+  "responseStart": 321.36499998159707,
+  "secureConnectionStart": 266.70499984174967,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 266.70499984174967,
+  "transferSize": 20764,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "detail": null,
+  "duration": 0,
+  "entryType": "mark",
+  "name": "mwStartup",
+  "startTime": 286.5249998867512,
+  "toJSON": {}
+}{
+  "connectEnd": 306.97999987751245,
+  "connectStart": 306.97999987751245,
+  "decodedBodySize": 25653,
+  "domainLookupEnd": 306.97999987751245,
+  "domainLookupStart": 306.97999987751245,
+  "duration": 100.88500007987022,
+  "encodedBodySize": 7096,
+  "entryType": "resource",
+  "fetchStart": 306.97999987751245,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2CrefToolbar%2Cswitcher&skin=vector&version=1l114",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 307.71499988622963,
+  "responseEnd": 407.8649999573827,
+  "responseStart": 403.070000000298,
+  "secureConnectionStart": 306.97999987751245,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 306.97999987751245,
+  "transferSize": 7235,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 307.7449998818338,
+  "connectStart": 307.7449998818338,
+  "decodedBodySize": 54537,
+  "domainLookupEnd": 307.7449998818338,
+  "domainLookupStart": 307.7449998818338,
+  "duration": 52.06499993801117,
+  "encodedBodySize": 14985,
+  "entryType": "resource",
+  "fetchStart": 307.7449998818338,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1tqep",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 308.4399998188019,
+  "responseEnd": 359.80999981984496,
+  "responseStart": 357.44499997235835,
+  "secureConnectionStart": 307.7449998818338,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 307.7449998818338,
+  "transferSize": 15168,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 308.784999884665,
+  "connectStart": 308.784999884665,
+  "decodedBodySize": 492710,
+  "domainLookupEnd": 308.784999884665,
+  "domainLookupStart": 308.784999884665,
+  "duration": 139.1150001436472,
+  "encodedBodySize": 140016,
+  "entryType": "resource",
+  "fetchStart": 308.784999884665,
+  "initiatorType": "script",
+  "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=ligrg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 309.4549998641014,
+  "responseEnd": 447.9000000283122,
+  "responseStart": 360.0200000219047,
+  "secureConnectionStart": 308.784999884665,
+  "serverTiming": [
+    {
+      "description": "hit-local",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 308.784999884665,
+  "transferSize": 140276,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 316.23999984003603,
+  "connectStart": 316.23999984003603,
+  "decodedBodySize": 5390,
+  "domainLookupEnd": 316.23999984003603,
+  "domainLookupStart": 316.23999984003603,
+  "duration": 93.38500001467764,
+  "encodedBodySize": 1952,
+  "entryType": "resource",
+  "fetchStart": 316.23999984003603,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 317.60499998927116,
+  "responseEnd": 409.6249998547137,
+  "responseStart": 407.4049999471754,
+  "secureConnectionStart": 316.23999984003603,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 316.23999984003603,
+  "transferSize": 2125,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 317.08499998785555,
+  "connectStart": 317.08499998785555,
+  "decodedBodySize": 156,
+  "domainLookupEnd": 317.08499998785555,
+  "domainLookupStart": 317.08499998785555,
+  "duration": 92.2250000294298,
+  "encodedBodySize": 151,
+  "entryType": "resource",
+  "fetchStart": 317.08499998785555,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?872f1",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 318.25999985449016,
+  "responseEnd": 409.31000001728535,
+  "responseStart": 407.1949999779463,
+  "secureConnectionStart": 317.08499998785555,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 317.08499998785555,
+  "transferSize": 334,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 343.76499988138676,
+  "connectStart": 343.76499988138676,
+  "decodedBodySize": 388,
+  "domainLookupEnd": 343.76499988138676,
+  "domainLookupStart": 343.76499988138676,
+  "duration": 88.8750001322478,
+  "encodedBodySize": 281,
+  "entryType": "resource",
+  "fetchStart": 343.76499988138676,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 344.4649998564273,
+  "responseEnd": 432.64000001363456,
+  "responseStart": 430.1499999128282,
+  "secureConnectionStart": 343.76499988138676,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 343.76499988138676,
+  "transferSize": 390,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 453.0699998140335,
+  "connectStart": 346.03999997489154,
+  "decodedBodySize": 218,
+  "domainLookupEnd": 346.03999997489154,
+  "domainLookupStart": 346.02499986067414,
+  "duration": 164.6249999757856,
+  "encodedBodySize": 218,
+  "entryType": "resource",
+  "fetchStart": 344.5649999193847,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 454.8449998255819,
+  "responseEnd": 509.18999989517033,
+  "responseStart": 507.63499992899597,
+  "secureConnectionStart": 397.14499982073903,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 344.5649999193847,
+  "transferSize": 386,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 345.0749998446554,
+  "connectStart": 345.0749998446554,
+  "decodedBodySize": 291,
+  "domainLookupEnd": 345.0749998446554,
+  "domainLookupStart": 345.0749998446554,
+  "duration": 163.8250001706183,
+  "encodedBodySize": 291,
+  "entryType": "resource",
+  "fetchStart": 345.0749998446554,
+  "initiatorType": "css",
+  "name": "https://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 454.9000000115484,
+  "responseEnd": 508.9000000152737,
+  "responseStart": 507.28499982506037,
+  "secureConnectionStart": 345.0749998446554,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 345.0749998446554,
+  "transferSize": 726,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 346.529999980703,
+  "connectStart": 346.529999980703,
+  "decodedBodySize": 254,
+  "domainLookupEnd": 346.529999980703,
+  "domainLookupStart": 346.529999980703,
+  "duration": 87.9899999126792,
+  "encodedBodySize": 221,
+  "entryType": "resource",
+  "fetchStart": 346.529999980703,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/user-avatar.svg?b7f58",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 347.5949999410659,
+  "responseEnd": 434.5199998933822,
+  "responseStart": 430.5249999742955,
+  "secureConnectionStart": 346.529999980703,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 346.529999980703,
+  "transferSize": 329,
+  "workerStart": 0,
+  "workerTiming": []
+}{
+  "connectEnd": 348.8699998706579,
+  "connectStart": 348.8699998706579,
+  "decodedBodySize": 231,
+  "domainLookupEnd": 348.8699998706579,
+  "domainLookupStart": 348.8699998706579,
+  "duration": 101.79500002413988,
+  "encodedBodySize": 196,
+  "entryType": "resource",
+  "fetchStart": 348.8699998706579,
+  "initiatorType": "css",
+  "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/search.svg?4d50a",
+  "nextHopProtocol": "h2",
+  "redirectEnd": 0,
+  "redirectStart": 0,
+  "requestStart": 349.84499984420836,
+  "responseEnd": 450.6649998947978,
+  "responseStart": 447.29499984532595,
+  "secureConnectionStart": 348.8699998706579,
+  "serverTiming": [
+    {
+      "description": "hit-front",
+      "duration": 0,
+      "name": "cache"
+    }
+  ],
+  "startTime": 348.8699998706579,
+  "transferSize": 306,
+  "workerStart": 0,
+  "workerTiming": []
+}
